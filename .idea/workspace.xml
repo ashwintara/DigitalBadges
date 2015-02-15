@@ -2,107 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="633cd495-639b-45b0-8025-d66d81bbd7d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jboss_javassist_3_7_ga.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_2_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_toolchain_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_compiler_plugin_2_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_1_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_1_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_manager_1_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_ejb3_persistence_1_0_2_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_annotations_3_4_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_1_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_3_3_2_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_0_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/target/classes/za/co/discovery/vitality/rsa/badges/domain/UserLookup.class" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/target/classes/za/co/discovery/vitality/rsa/badges/domain/UserLookup.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/VitalityBadgesBusinessModules-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/VitalityBadgesBusinessModules-1.0.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesConfig/target/VitalityBadgesConfig-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/VitalityBadgesConfig/target/VitalityBadgesConfig-1.0.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesEar/target/VitalityBadgesEar-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/VitalityBadgesEar/target/VitalityBadgesEar-1.0.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesRepository/target/VitalityBadgesRepository-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/VitalityBadgesRepository/target/VitalityBadgesRepository-1.0.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/service/CustomUserDetailsService.java" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/service/CustomUserDetailsService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/target/VitalityBadgesWeb.war" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/target/VitalityBadgesWeb.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesEar/target/surefire-reports/TEST-discovery.vitality.rsa.VitalityBadges.AppTest.xml" afterPath="$PROJECT_DIR$/VitalityBadgesEar/target/surefire-reports/TEST-discovery.vitality.rsa.VitalityBadges.AppTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/surefire-reports/TEST-za.co.discovery.vitality.rsa.badges.AppTest.xml" afterPath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/surefire-reports/TEST-za.co.discovery.vitality.rsa.badges.AppTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesConfig/target/surefire-reports/TEST-za.co.discovery.vitality.rsa.badges.AppTest.xml" afterPath="$PROJECT_DIR$/VitalityBadgesConfig/target/surefire-reports/TEST-za.co.discovery.vitality.rsa.badges.AppTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesRepository/target/surefire-reports/TEST-za.co.discovery.vitality.rsa.badges.AppTest.xml" afterPath="$PROJECT_DIR$/VitalityBadgesRepository/target/surefire-reports/TEST-za.co.discovery.vitality.rsa.badges.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/domain/UserLookup.java" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/domain/UserLookup.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadges.iml" afterPath="$PROJECT_DIR$/VitalityBadges.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesBusinessModules/VitalityBadgesBusinessModules.iml" afterPath="$PROJECT_DIR$/VitalityBadgesBusinessModules/VitalityBadgesBusinessModules.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesConfig/VitalityBadgesConfig.iml" afterPath="$PROJECT_DIR$/VitalityBadgesConfig/VitalityBadgesConfig.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesEar/VitalityBadgesEar.iml" afterPath="$PROJECT_DIR$/VitalityBadgesEar/VitalityBadgesEar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesRepository/VitalityBadgesRepository.iml" afterPath="$PROJECT_DIR$/VitalityBadgesRepository/VitalityBadgesRepository.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/VitalityBadgesWeb.iml" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/VitalityBadgesWeb.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/VitalityBadgesWeb_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/VitalityBadgesWeb_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesEar/target/surefire-reports/discovery.vitality.rsa.VitalityBadges.AppTest.txt" afterPath="$PROJECT_DIR$/VitalityBadgesEar/target/surefire-reports/discovery.vitality.rsa.VitalityBadges.AppTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesConfig/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesConfig/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesConfig/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesConfig/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesEar/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesEar/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesEar/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesEar/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesRepository/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesRepository/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesRepository/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesRepository/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesConfig/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/VitalityBadgesConfig/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesEar/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/VitalityBadgesEar/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesRepository/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/VitalityBadgesRepository/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesWeb/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/VitalityBadgesWeb/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/surefire-reports/za.co.discovery.vitality.rsa.badges.AppTest.txt" afterPath="$PROJECT_DIR$/VitalityBadgesBusinessModules/target/surefire-reports/za.co.discovery.vitality.rsa.badges.AppTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesConfig/target/surefire-reports/za.co.discovery.vitality.rsa.badges.AppTest.txt" afterPath="$PROJECT_DIR$/VitalityBadgesConfig/target/surefire-reports/za.co.discovery.vitality.rsa.badges.AppTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitalityBadgesRepository/target/surefire-reports/za.co.discovery.vitality.rsa.badges.AppTest.txt" afterPath="$PROJECT_DIR$/VitalityBadgesRepository/target/surefire-reports/za.co.discovery.vitality.rsa.badges.AppTest.txt" />
     </list>
     <ignored path="VitalityBadges.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -206,10 +124,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserLookup.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserLookup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/domain/UserLookup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69590646" vertical-offset="0" max-vertical-offset="884">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -218,6 +136,16 @@
                 <element signature="e#860#861#0" expanded="true" />
                 <element signature="e#892#893#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4984026" vertical-offset="3988" max-vertical-offset="4301">
+              <caret line="207" column="37" selection-start-line="207" selection-start-column="37" selection-end-line="207" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -272,16 +200,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VitalityBadgesWeb/src/main/resources/za/co/discovery/vitality/rsa/badges/spring.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="221">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -297,6 +215,7 @@
       <list>
         <option value="$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/service/CustomUserDetailsService.java" />
         <option value="$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/domain/UserLookup.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -554,16 +473,16 @@
       <created>1420792176332</created>
       <option name="number" value="Default" />
       <updated>1420792176332</updated>
-      <workItem from="1423996981025" duration="270000" />
+      <workItem from="1423996981025" duration="725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270000" />
+    <option name="totallyTimeSpent" value="725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -576,10 +495,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20677084" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6097046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6097046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39739582" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39739582" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -859,7 +778,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VitalityBadgesWeb/src/main/java/za/co/discovery/vitality/rsa/badges/domain/UserLookup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69590646" vertical-offset="0" max-vertical-offset="884">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -868,6 +787,14 @@
             <element signature="e#860#861#0" expanded="true" />
             <element signature="e#892#893#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4984026" vertical-offset="3988" max-vertical-offset="4301">
+          <caret line="207" column="37" selection-start-line="207" selection-start-column="37" selection-end-line="207" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
