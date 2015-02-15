@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VitalityBadgesWeb:war">
+    <output-path>$PROJECT_DIR$/VitalityBadgesWeb/target</output-path>
+    <root id="archive" name="VitalityBadgesWeb.war">
+      <element id="artifact" artifact-name="VitalityBadgesWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VitalityBadges.iml" filepath="$PROJECT_DIR$/VitalityBadges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VitalityBadgesBusinessModules/VitalityBadgesBusinessModules.iml" filepath="$PROJECT_DIR$/VitalityBadgesBusinessModules/VitalityBadgesBusinessModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VitalityBadgesConfig/VitalityBadgesConfig.iml" filepath="$PROJECT_DIR$/VitalityBadgesConfig/VitalityBadgesConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VitalityBadgesEar/VitalityBadgesEar.iml" filepath="$PROJECT_DIR$/VitalityBadgesEar/VitalityBadgesEar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VitalityBadgesRepository/VitalityBadgesRepository.iml" filepath="$PROJECT_DIR$/VitalityBadgesRepository/VitalityBadgesRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VitalityBadgesWeb/VitalityBadgesWeb.iml" filepath="$PROJECT_DIR$/VitalityBadgesWeb/VitalityBadgesWeb.iml" />
+    </modules>
+  </component>
+</project>
+
