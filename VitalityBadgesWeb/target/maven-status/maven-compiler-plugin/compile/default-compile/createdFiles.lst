@@ -1,2 +1,4 @@
 za\co\discovery\vitality\rsa\badges\domain\UserLookup.class
 za\co\discovery\vitality\rsa\badges\service\LoginService.class
+za\co\discovery\vitality\rsa\badges\service\CustomUserDetailsService.class
+za\co\discovery\vitality\rsa\badges\controller\LoginLogoutController.class
