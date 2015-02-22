@@ -1,2 +1,2 @@
 # DigitalBadges
-Digital badges project Sandbox
+Digital badges project Sandbox testing
