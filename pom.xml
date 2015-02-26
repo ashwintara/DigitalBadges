@@ -3,19 +3,17 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>discovery.vitality.rsa</groupId>
   <artifactId>VitalityBadges</artifactId>
-  <packaging>pom</packaging>
+    <packaging>pom</packaging>
   <version>1.0.0-SNAPSHOT</version>
   <name>VitalityBadges</name>
-  
-      <modules>
+    <modules>
         <module>VitalityBadgesBusinessModules</module>
-		<module>VitalityBadgesConfig</module>
-		<module>VitalityBadgesEar</module>
-		<module>VitalityBadgesRepository</module>
-		<module>VitalityBadgesWeb</module>
+        <module>VitalityBadgesConfig</module>
+        <module>VitalityBadgesEar</module>
+        <module>VitalityBadgesRepository</module>
+        <module>VitalityBadgesWeb</module>
     </modules>
-  
-  <dependencies>
+    <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>

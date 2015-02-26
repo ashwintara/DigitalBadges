@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="javaeeApplication" name="JavaEE">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/target/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
@@ -73,5 +82,9 @@
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-compiler-manager:1.8.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.codehaus.plexus:plexus-compiler-javac:1.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:3.0.5.RELEASE" level="project" />
+    <orderEntry type="module" module-name="VitalityBadgesBusinessModules" />
+    <orderEntry type="module" module-name="VitalityBadgesRepository" />
+    <orderEntry type="module" module-name="VitalityBadgesConfig" />
+    <orderEntry type="module" module-name="VitalityBadgesWeb" />
   </component>
 </module>
